@@ -1,5 +1,5 @@
 # Planet
 
-[!image](example.png)
+![image](example.png)
 
 A WIP procedural planet generator.
